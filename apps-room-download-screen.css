@@ -1,0 +1,25 @@
+.appsroom{
+    color: rgb(11, 116, 253);
+    font-style: italic;
+}
+
+.topic{
+    color: indigo;
+}
+
+.download-button{
+    height: 75px;
+    width: 200px;
+    color: white;
+    background-color: rgb(29, 123, 230);
+    border: none;
+    border-radius: 30px;
+}
+
+.how{
+    color: rgb(0, 224, 150);
+}
+
+.red{
+    color: red;
+}
